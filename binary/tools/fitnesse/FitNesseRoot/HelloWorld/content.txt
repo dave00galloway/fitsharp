@@ -1,0 +1,11 @@
+!define COMMAND_PATTERN {%m -r fitnesse.fitserver.FitServer,lib\fit.dll %p}
+!define TEST_RUNNER {lib\Runner.exe}
+#!path C:\svn\local\BakeryDemoTest\trunk\fitNesse\src\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll
+#!path src\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll
+# !path src\AllBakeryDemoTestProjects\AllBakeryDemoTestProjects\bin\Debug\*.dll
+#!path C:\svn\local\BakeryDemoTest\trunk\fitNesse\src\AllBakeryDemoTestProjects\AllBakeryDemoTestProjects\bin\Debug\HelloWorld.dll
+!path lib\*.dll
+
+!|DaveGalloway.OurFirstTest  |
+|string1|string2|Concatenate?|
+|Hello  |World  |Hello World |

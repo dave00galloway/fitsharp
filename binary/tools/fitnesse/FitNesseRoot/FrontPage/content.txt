@@ -1,0 +1,8 @@
+!1 Welcome to [[fitnesse][http://fitnesse.org/FrontPage]]
+!3 ''The fully integrated stand-alone acceptance testing framework and wiki.''
+
+Try out the HelloWorld demo
+Or the GherkinKeywords project
+or even the BakeryDemoTestProject
+
+!note Release ${FITNESSE_VERSION}
