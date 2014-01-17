@@ -18,3 +18,10 @@ my*/
 document/FitnesseRoot/ErrorLogs/
 document/FitnesseRoot/RecentChanges/
 document/FitnesseRoot/files/testResults/
+
+testProgress
+testResults
+
+/binary/tools/fitnesse/FitNesseRoot/RecentChanges
+
+/binary/tools/fitnesse/FitNesseRoot/ErrorLogs
